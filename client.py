@@ -124,5 +124,4 @@ if __name__ == '__main__':
 				refresh_window()
 				recieved = 0
 
-			if event !=
 	sys.exit()
